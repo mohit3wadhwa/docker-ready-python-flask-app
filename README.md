@@ -21,4 +21,4 @@ Run the Docker container using the command shown below.
 $ docker run -dp 5000:5000 docker-ready-python-flask-app
 
 
-Once all above get completed, look for http://localhost:5000/ in any of your broswer. 
+Once all above get completed, look for http://localhost:5000/ in any of your browser. 
